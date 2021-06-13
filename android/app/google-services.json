@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161591183541",
+    "project_id": "liveasyshipperapp",
+    "storage_bucket": "liveasyshipperapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161591183541:android:7d62514dce62f348e996fc",
+        "android_client_info": {
+          "package_name": "com.liveasy.liveasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161591183541-8h2cs1jr4m3jtt6rr2kebv3u93jrb5mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzcTHibpBuuzya7Jlo-D34ROH4r8NUFPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161591183541-8h2cs1jr4m3jtt6rr2kebv3u93jrb5mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
